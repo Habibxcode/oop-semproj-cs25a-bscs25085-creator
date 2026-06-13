@@ -78,6 +78,5 @@ on the role selection screen.
 |----|----------|
 | 1  | admin123 |
 
-## Repository
 
-[YOUR_GITHUB_LINK_HERE]
+
