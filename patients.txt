@@ -1,0 +1,4 @@
+patient_id,name,age,gender,contact,password,balance
+1,Ahmed Ali,28,M,03001234567,pass123,5000.00
+2,Sara Malik,34,F,03211234567,sara456,12000.00
+3,Bilal Khan,22,M,03331234567,bil789,3000.00
