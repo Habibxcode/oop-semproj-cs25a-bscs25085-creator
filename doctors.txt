@@ -1,0 +1,5 @@
+doctor_id,name,specialization,contact,password,fee
+1,Dr. Sara Khan,Cardiology,03111234567,doc456,1500.00
+2,Dr. Usman Raza,Neurology,03211234568,doc789,2000.00
+3,Dr. Ayesha Noor,General,03331234569,doc321,800.00
+4,Habib,Eye,03099019517,itu1234,5000.00
